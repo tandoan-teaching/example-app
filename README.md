@@ -17,4 +17,4 @@ PHP Example App
 ![image](https://github.com/tandoan-teaching/example-app/assets/136707756/a5daae22-95f6-40a1-990a-1e31628106ba)
 ![image](https://github.com/tandoan-teaching/example-app/assets/136707756/55c8237e-a198-435d-b30c-7382902a10cf)
 
-6. file database db__example_app.sql: database mẫu sử dụng trong ví dụ
+6. file database db__example_app.zip chứa file database db__example_app.sql: database mẫu sử dụng trong ví dụ
