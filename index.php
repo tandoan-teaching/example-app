@@ -1,5 +1,5 @@
 <?php
-
+// test git
 // khi tải web, đầu tiên tải các biến global trước tiên
 include_once 'app/config/globals.php';
 
